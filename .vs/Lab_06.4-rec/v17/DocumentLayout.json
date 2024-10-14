@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DellAs\\source\\repos\\Lab_06.4-rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBBBB58-DF3F-4539-9CF3-21269363AB92}|UnitTest064rec\\UnitTest064rec.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_06.4-rec\\UnitTest064rec\\UnitTest064rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BBBBB58-DF3F-4539-9CF3-21269363AB92}|UnitTest064rec\\UnitTest064rec.vcxproj|solutionrelative:UnitTest064rec\\UnitTest064rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B957057-C7B5-4853-8C3D-3733F1821992}|Lab_06.4-rec.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_06.4-rec\\Lab_06.4-rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B957057-C7B5-4853-8C3D-3733F1821992}|Lab_06.4-rec.vcxproj|solutionrelative:Lab_06.4-rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest064rec.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_06.4-rec\\UnitTest064rec\\UnitTest064rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest064rec\\UnitTest064rec.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_06.4-rec\\UnitTest064rec\\UnitTest064rec.cpp",
+              "RelativeToolTip": "UnitTest064rec\\UnitTest064rec.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:59:03.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_06.4-rec.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_06.4-rec\\Lab_06.4-rec.cpp",
+              "RelativeDocumentMoniker": "Lab_06.4-rec.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_06.4-rec\\Lab_06.4-rec.cpp",
+              "RelativeToolTip": "Lab_06.4-rec.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T09:44:43.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
